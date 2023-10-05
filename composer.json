@@ -1,6 +1,6 @@
 {
     "name": "aleks39/composer-test",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Aleks39\\ComposerTest\\": "src/"
