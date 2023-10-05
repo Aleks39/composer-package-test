@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Aleks39\composerTest;
+namespace Aleks39\ComposerTest;
 
 class PackageTest
 {
