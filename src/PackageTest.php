@@ -8,6 +8,6 @@ class PackageTest
 {
     public function test(int $number): int
     {
-        return $number * 2;
+        return $number * 10;
     }
 }
