@@ -1,0 +1,15 @@
+{
+    "name": "aleks39/composer-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Aleks39\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "acvetkov"
+        }
+    ],
+    "require": {}
+}
