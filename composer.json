@@ -1,0 +1,15 @@
+{
+    "name": "aleks39/composer-package-test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Aleks39\\ComposerPackageTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "acvetkov"
+        }
+    ],
+    "require": {}
+}
